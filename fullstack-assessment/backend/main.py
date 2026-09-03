@@ -13,7 +13,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "https://fullstack-assignment-i1rxg5yll-shubham-kumars-projects-75082655.vercel.app",
+        "https://fullstack-assignment-kappa.vercel.app",
     ],
     allow_methods=["GET"],
     allow_headers=["*"],
