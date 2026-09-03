@@ -76,6 +76,17 @@ Both the backend and frontend must be running at the same time:
 - Backend: `http://localhost:8000`
 - Frontend: `http://localhost:3000`
 
+## Live Demo
+
+**Frontend:**  
+https://fullstack-assignment-kappa.vercel.app/
+
+**Backend API Docs:**  
+https://fullstack-assignment-1-eia6.onrender.com/docs
+
+**GitHub Repository:**  
+https://github.com/shubhamk-83/Fullstack-Assignment
+
 ## How Pagination Works
 
 The backend exposes:
